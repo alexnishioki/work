@@ -1,12 +1,15 @@
-html {
+  html {
 	background-color:#D8D8D8;
+	
 }
-.t {
+
+ .t {
 	color:#B40404;
 	position:relative;
 	left:120px;
 	font-family:Courier;
 	font-size:20px;
+	
 }
   
 
@@ -18,7 +21,7 @@ html {
   	font-size:20px;
   	font-family:Courier;
 
-  }
+}
 
   .rect-left {
   	background-color: #8A0808;
@@ -32,14 +35,15 @@ html {
   	margin:25px;
   	float:left;
   	
-  }
+}
 
   .dir {
   	position:relative;
   	color:#D8D8D8;
  	top:1px;
  	left:1px;
-  }
+  
+}
  
   p {
   	position:relative;
@@ -49,7 +53,7 @@ html {
   	font-family:Courier;
   	color:#B40404;
   	font-size:15px;
-  }
+}
 
   .box  {
   	background-color: #8A0808;
