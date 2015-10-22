@@ -16,7 +16,7 @@
   h1 {
   	color:#B40404;
   	position:relative;
-  	left:320px;
+  	left:330px;
   	top:60px;
   	font-size:20px;
   	font-family:Courier;
@@ -48,7 +48,7 @@
   p {
   	position:relative;
   	top:60px;
-  	left:100px;
+  	left:110px;
   	padding-right: 400px;
   	font-family:Courier;
   	color:#B40404;
@@ -61,7 +61,7 @@
   	font-family:courier;
   	position:relative;
     top:90px;
-    left:70px;
+    left:85px;
     width: 80px;
     height:80px;
     padding: 25px;
@@ -80,7 +80,7 @@
 	font-family:courier;
 	position:relative;
     top:90px;
-    left:70px;
+    left:85px;
     width: 80px;
     height:80px;
     padding: 25px;
@@ -97,7 +97,7 @@
 	font-family:courier;
 	position:relative;
     top:90px;
-    left:70px;
+    left:85px;
 	width:80px;
 	height:80px;
 	padding:25px;
