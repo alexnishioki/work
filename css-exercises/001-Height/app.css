@@ -1,0 +1,19 @@
+div {
+  background: #222;
+  margin-bottom: 20px;
+  color: white;
+}
+
+img {
+  max-width: 100%;
+}
+
+.short, .inside {
+	height: 100px
+}
+
+.tall {
+height: 200px;
+}
+
+

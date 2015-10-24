@@ -1,0 +1,20 @@
+div {
+  color: white;
+  background: blue;
+  margin-bottom: 20px;
+}
+
+.half {
+	background: red;
+}
+
+.fourth {
+	background-width: 25%;
+}
+
+.eighth {
+	background-size: 12.5%;
+}
+
+
+/* Code Under This Line */

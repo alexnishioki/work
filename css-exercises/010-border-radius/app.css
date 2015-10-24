@@ -1,0 +1,41 @@
+p {
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.post {
+  border: 1px solid rgba(000,000,000,0.2);
+  padding: 10px;
+  max-width: 650px;
+
+}
+
+.full {
+	background-color:black;
+	border-radius:100%;
+	width:20px;
+	padding:50px;
+	border:50px solid black;
+	margin:25px;
+
+}
+
+.outline {
+	background-color:white;
+	border-radius:100%;
+	width:100px;
+	height:100px;
+	padding:50px;
+	border:2px solid black;
+	margin:25px;
+
+
+
+
+}
+
+/* Your Code Goes Under This Line */
